@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">VALORANT</string>
+    <string name="heroes_name">NAMA AGENT</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+
+    <string-array name="data_name">
+        <item>Reyna</item>
+        <item>Jett</item>
+        <item>Yoru</item>
+        <item>Viper</item>
+        <item>Brimstone</item>
+        <item>Omen</item>
+        <item>Cypher</item>
+        <item>Kiljoy</item>
+        <item>Sage</item>
+        <item>Sova</item>
+    </string-array>
+
+    <string-array name="data_tamnel">
+        <item>Are those our enemies? This wont take long. </item>
+        <item>Think you can keep up? Who am I kidding? You know you cant keep up. </item>
+        <item>Five enemies. Five for me, none for anyone else </item>
+        <item>They call me a monster. Shall I prove them right? </item>
+        <item>Sage, remember that you cant save everyone. We save who we can, thats enough </item>
+        <item>If I must live in this nightmare my enemies might as well join me. </item>
+        <item>I will stop anyone who tries to come through. I must keep my secrets with me </item>
+        <item>Dont overthink it, thats my job </item>
+        <item>I wasnt strong enough before. But now, now I am strong enough for us all </item>
+        <item>I believe in all of you, like I believe in myselfrecision.</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance. </item>
+        <item>Representing her home country of South Korea, Jett agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them. </item>
+        <item>Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look. </item>
+        <item>The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy vision. If the toxins dont kill her prey, her mind games surely will. </item>
+        <item>Joining from the U.S.A., Brimstones orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots on the ground commander. </item>
+        <item>A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next. </item>
+        <item>The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy’s every move. No secret is safe. No maneuver goes unseen. Cypher is always watching. </item>
+        <item>The genius of Germany, Killjoy effortlessly secures key battlefield positions with her arsenal of inventions. If their damage doesnt take her enemies out, the debuff her robots provide will make short work of them. </item>
+        <item>The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight. </item>
+        <item>Born from the eternal winter of Russias tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/reyna</item>
+        <item>@drawable/jett</item>
+        <item>@drawable/yoruh</item>
+        <item>@drawable/viper</item>
+        <item>@drawable/brimstone</item>
+        <item>@drawable/omen</item>
+        <item>@drawable/cypher</item>
+        <item>@drawable/kiljoy</item>
+        <item>@drawable/sage</item>
+        <item>@drawable/sova</item>
+    </integer-array>
+
+    <string-array name="data_role">
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Smoker</item>
+        <item>Smoker</item>
+        <item>Smoker</item>
+        <item>Sentinels</item>
+        <item>Sentinels</item>
+        <item>Sentinels</item>
+        <item>Initiator</item>
+    </string-array>
+
+    <string-array name="data_origin">
+        <item>Mexico</item>
+        <item>South Korea</item>
+        <item>Japan</item>
+        <item>United Stated</item>
+        <item>United Stated</item>
+        <item>Earth</item>
+        <item>Maroco</item>
+        <item>Germany</item>
+        <item>China</item>
+        <item>Rusia</item>
+    </string-array>
+
+
+    <integer-array name="data_photobg">
+        <item>@drawable/reynabg</item>
+        <item>@drawable/jettbg</item>
+        <item>@drawable/yorubg</item>
+        <item>@drawable/viperbg</item>
+        <item>@drawable/brimstonebg</item>
+        <item>@drawable/omenbg</item>
+        <item>@drawable/cypherbg</item>
+        <item>@drawable/kiljoybg</item>
+        <item>@drawable/sagebg</item>
+        <item>@drawable/sovabg</item>
+    </integer-array>
+</resources>
